@@ -1,3 +1,7 @@
 Định nghĩa: Là danh sách động 1 chiều
 Ví dụ: 
     A=[1,2,3]
+
+Khai báo một vector đơn giản
+    numpy.array(object,dtype=None, ndmin=0)
+    Object là danh sách 1 chiều

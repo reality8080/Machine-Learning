@@ -5,3 +5,6 @@ Ví dụ:
         [4,5,6],
         [7,8,9],
     ]
+Khai báo một ma trận đơn giản:
+    numpy.array(object,dtype=None, ndmin=0)
+    object là danh sách 2 chiều
