@@ -9,3 +9,4 @@ print(A[1,1])
 print(A[:,1])
 print(A[1,:])
 # Phía trước là hàng, phía sau là cột
+print("\n")
