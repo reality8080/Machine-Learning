@@ -10,3 +10,5 @@ print(A[:,1])
 print(A[1,:])
 # Phía trước là hàng, phía sau là cột
 print("\n")
+
+print("Ma trận đơn vị:\n",ny.eye(10))
